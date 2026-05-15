@@ -1,0 +1,8 @@
+_research
+_docs
+*.log
+.env
+__pycache__/
+*.pyc
+*.pyo
+
