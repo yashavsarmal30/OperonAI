@@ -5,4 +5,7 @@ _docs
 __pycache__/
 *.pyc
 *.pyo
+config.yaml
 
+#s
+conductor
